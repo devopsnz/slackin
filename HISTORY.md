@@ -1,3 +1,9 @@
+0.13.1 / 2016-09-12
+===================
+
+  * origin/develop Remove EOL semicolon
+  * upstream/master client: remove comment we merged in by mistake
+  * README: document JSON API / CORS
 
 0.13.0 / 2016-07-20
 ===================
